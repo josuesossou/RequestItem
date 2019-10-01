@@ -1,0 +1,21 @@
+#navbar {
+    background-color: #27211E;
+    height: 5rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name-logo {
+    color: #FFFFFF;
+}
+
+.add {
+    background-color: rgba(161, 255, 54, 0.65);
+    width: 10rem;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
